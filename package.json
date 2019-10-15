@@ -1,0 +1,29 @@
+{
+  "name": "react-native-pure",
+  "version": "0.0.1",
+  "description": "PureJS Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cm": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-pure/react-native-pure.git"
+  },
+  "author": "m860",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-native-pure/react-native-pure/issues"
+  },
+  "homepage": "https://github.com/react-native-pure/react-native-pure#readme",
+  "devDependencies": {
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
