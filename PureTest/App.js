@@ -15,6 +15,7 @@ import {
   Text,
   StatusBar,
 } from 'react-native';
+import Toast from "react-native-pure/toast/Toast"
 
 import {
   Header,
